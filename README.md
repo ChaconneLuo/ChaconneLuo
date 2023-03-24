@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- ⚡ Tech：JavaScript，TypeScript，Java.
+
+- 🔭 Learning：WebGL，Canvas，Rust，Go.
+  
+- 🪟 Framework：React，Vue，Next.js，Nest.js，SpringBoot，SpringCloud，Nacos，Mybatis，MybatisPlus
+
+💪 Keeping Learning!
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ChaconneLuo.ChaconneLuo&left_color=green&right_color=red)
 
 <!--
