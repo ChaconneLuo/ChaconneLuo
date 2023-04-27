@@ -2,7 +2,7 @@
 
 - ⚡ Tech：JavaScript，TypeScript，Java.
 
-- 🔭 Learning：WebGL，Canvas，Rust，Go.
+- 🔭 Learning：WebGPU，WebGL，Canvas，Rust，Go.
   
 - 🪟 Framework：React，Vue，Next.js，Nest.js，SpringBoot，SpringCloud，Nacos，Mybatis，MybatisPlus
 
