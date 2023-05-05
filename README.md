@@ -4,7 +4,7 @@
 
 - 🔭 Learning：WebGPU，WebGL，Canvas，Rust，Go.
   
-- 🪟 Framework：React，Vue，Next.js，Nest.js，SpringBoot，SpringCloud，Nacos，Mybatis，MybatisPlus
+- 📫 Framework：React，Vue，Next.js，Nest.js，SpringBoot，SpringCloud，Nacos，Mybatis，MybatisPlus
 
 💪 Keeping Learning!
 
