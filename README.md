@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 -->
 [![ChaconneLuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaconneLuo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ChaconneLuo?tab=repositories)
 
-[![ChaconneLuo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ChaconneLuo&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ChaconneLuo?tab=repositories)
+[![ChaconneLuo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ChaconneLuo&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/ChaconneLuo?tab=repositories)
