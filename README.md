@@ -1,30 +1,19 @@
-### Hi there 👋
+### Hello there, I'm ChaconneLuo 👋
 
-- ⚡ Tech：JavaScript，TypeScript，Java.
+#### - ⚡ Language：
 
-- 🔭 Learning：WebGPU，WebGL，Canvas，Rust，Go.
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,rust,go,java,md,py&theme=light)
+
+#### - 🔭 Learning:
+
+![My Skills](https://skillicons.dev/icons?i=rust,vite,nestjs,nextjs,docker,graphql,wasm&theme=light)
   
-- 📫 Framework：React，Vue，Next.js，Nest.js，SpringBoot，SpringCloud，Nacos，Mybatis，MybatisPlus
+#### - 📫 Skills：
 
-💪 Keeping Learning!
+![My Skills](https://skillicons.dev/icons?i=git,spring,redis,docker,nodejs,tauri,figma,github,go,tailwind,graphql,idea,java,linux,md,mongodb,postman,py,wasm,js,ts,html,css,react,rust,vite,vue,nestjs,nextjs&theme=light)
 
-<!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ChaconneLuo.ChaconneLuo&left_color=green&right_color=red)
--->
-<!--
-**ChaconneLuo/ChaconneLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💪 Keeping Learning!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![ChaconneLuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaconneLuo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ChaconneLuo?tab=repositories)
 
 [![ChaconneLuo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ChaconneLuo&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/ChaconneLuo?tab=repositories)
